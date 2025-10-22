@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/simple_client.dir/Core/Src/main.c.o CMakeFiles/simple_client.dir/Applications/Src/LEDControl_Task.c.o CMakeFiles/simple_client.dir/Modules/Src/udp_client.c.o CMakeFiles/simple_client.dir/Protocol/Src/udp_protocol.c.o -o simple_client 

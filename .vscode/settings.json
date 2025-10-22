@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ledcontrol_task.h": "c",
+        "udp_client.h": "c"
+    }
+}

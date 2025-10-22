@@ -1,0 +1,26 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/wayne/Simple_client/Applications/Src/LEDControl_Task.c" "CMakeFiles/simple_client.dir/Applications/Src/LEDControl_Task.c.o" "gcc" "CMakeFiles/simple_client.dir/Applications/Src/LEDControl_Task.c.o.d"
+  "/home/wayne/Simple_client/Core/Src/main.c" "CMakeFiles/simple_client.dir/Core/Src/main.c.o" "gcc" "CMakeFiles/simple_client.dir/Core/Src/main.c.o.d"
+  "/home/wayne/Simple_client/Modules/Src/udp_client.c" "CMakeFiles/simple_client.dir/Modules/Src/udp_client.c.o" "gcc" "CMakeFiles/simple_client.dir/Modules/Src/udp_client.c.o.d"
+  "/home/wayne/Simple_client/Protocol/Src/udp_protocol.c" "CMakeFiles/simple_client.dir/Protocol/Src/udp_protocol.c.o" "gcc" "CMakeFiles/simple_client.dir/Protocol/Src/udp_protocol.c.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/client.dir/Core/Src/main.c.o CMakeFiles/client.dir/Modules/Src/udp_client.c.o CMakeFiles/client.dir/Applications/Src/LEDControl_Task.c.o -o client 
